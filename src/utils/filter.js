@@ -11,6 +11,6 @@ let formatTime = function (value, pattern) {
     }
 }
 
-export default {
+export {
     formatTime
 }
